@@ -50,6 +50,9 @@
     "ts-jest": "^24.2.0",
     "typescript": "^3.7.3"
   },
+   "peerDependencies": {
+    "react-native-webview": "^7.0.5"
+  },
   "jest": {
     "preset": "react-native",
     "moduleFileExtensions": [
